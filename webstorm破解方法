@@ -1,0 +1,45 @@
+研究使用webstorm的时间也比较久了，虽说VS code越来越流行，用一种开发工具久了以后就不想换了. 下面说说如何一次破解，永久有效的方法.
+
+这种方法是基于webstorm2018版来实现的，最新版没更新所以不知道能不能有效.
+
+（1）下载安装webstorm 2018 .
+
+（2）下载压缩文件：JetbrainsIdesCrack-4.2.jar. 把文件放在webstorm安装位置的根目录，如：F:/
+
+（3）在webstrom安装目录里bin文件夹找到两个文件："webstorm.exe.vmoptions" "webstorm64.exe.vmoptions",然后打开文本编辑，在这两个文件底部添加如下代码："-javaagent:F:/JetbrainsIdesCrack-4.2.jar",保存并关闭.
+
+（4）下面打开安装好的webstrom,在激活界面选择Activation code 在里面复制下面内容：
+
+```
+{"licenseId":"1337",
+"licenseeName":"MyLittle Strom",
+"assigneeName":"",
+"assigneeEmail":"",
+"licenseRestriction":"Unlimited license till end of the century.",
+"checkConcurrentUse":false,
+"products":[
+{"code":"II","paidUpTo":"2099-12-31"},
+{"code":"DM","paidUpTo":"2099-12-31"},
+{"code":"AC","paidUpTo":"2099-12-31"},
+{"code":"RS0","paidUpTo":"2099-12-31"},
+{"code":"WS","paidUpTo":"2099-12-31"},
+{"code":"DPN","paidUpTo":"2099-12-31"},
+{"code":"RC","paidUpTo":"2099-12-31"},
+{"code":"PS","paidUpTo":"2099-12-31"},
+{"code":"DC","paidUpTo":"2099-12-31"},
+{"code":"RM","paidUpTo":"2099-12-31"},
+{"code":"CL","paidUpTo":"2099-12-31"},
+{"code":"PC","paidUpTo":"2099-12-31"},
+{"code":"DB","paidUpTo":"2099-12-31"},
+{"code":"GO","paidUpTo":"2099-12-31"},
+{"code":"RD","paidUpTo":"2099-12-31"}
+],
+"hash":"2911276/0",
+"gracePeriodDays":7,
+"autoProlongated":false}
+
+```
+
+补充：文件下载提供百度网盘：
+链接：https://pan.baidu.com/s/1yi6gBSZoRKSDXsYQFTTEog 
+提取码：c3jc
