@@ -7,7 +7,8 @@
 （2）下载压缩文件：JetbrainsIdesCrack-4.2.jar. 把文件放在webstorm安装位置的根目录，如：F:/
 
 （3）在webstrom安装目录里bin文件夹找到两个文件："webstorm.exe.vmoptions" "webstorm64.exe.vmoptions",
-然后打开文本编辑，在这两个文件底部添加如下代码："-javaagent:F:/JetbrainsIdesCrack-4.2.jar",保存并关闭.
+  然后打开文本编辑，在这两个文件底部添加如下代码：
+  "-javaagent:F:/JetbrainsIdesCrack-4.2-release-sha1-3323d5d0b82e716609808090d3dc7cb3198b8c4b.jar",保存并关闭.
 
 （4）下面打开安装好的webstrom,在激活界面选择Activation code 在里面复制下面内容：
 
